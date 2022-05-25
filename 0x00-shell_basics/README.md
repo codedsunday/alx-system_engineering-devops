@@ -1,1 +1,1 @@
-pwd prints the abosule pathname of the current working director
+ ls displays the content list of your current directory
