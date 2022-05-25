@@ -1,1 +1,1 @@
- ls -la is used to display the current directory contents, including hidden files in long format
+ls -lan is used to display the contents of the directory with the user and group IDs in long format and hidden files
