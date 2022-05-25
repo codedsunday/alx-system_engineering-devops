@@ -1,1 +1,1 @@
-ls -l displays the content of the directory in long format
+ ls -la is used to display the current directory contents, including hidden files in long format
